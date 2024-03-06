@@ -1,4 +1,4 @@
-#prueba de rama-secundaria
+#prueba de rama-secundaria, primer commit de rama 2
 
 # prueba de pull
 
