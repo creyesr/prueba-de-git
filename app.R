@@ -1,3 +1,6 @@
+
+# primer commit despues del merge
+
 #prueba de rama-secundaria, primer commit de rama 2
 
 # prueba de pull
